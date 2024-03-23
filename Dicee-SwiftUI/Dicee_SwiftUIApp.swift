@@ -1,10 +1,3 @@
-//
-//  Dicee_SwiftUIApp.swift
-//  Dicee-SwiftUI
-//
-//  Created by Kanav Goyal on 23/03/24.
-//
-
 import SwiftUI
 
 @main
