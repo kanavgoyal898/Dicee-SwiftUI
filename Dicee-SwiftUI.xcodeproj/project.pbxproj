@@ -19,6 +19,7 @@
 		41335B652BAE2CC300B076F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41335B672BAE2CC400B076F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41335B6A2BAE2CC400B076F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41DA0C342C3B47C3005BC648 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		41335B572BAE2CC300B076F5 = {
 			isa = PBXGroup;
 			children = (
+				41DA0C342C3B47C3005BC648 /* README.md */,
 				41335B622BAE2CC300B076F5 /* Dicee-SwiftUI */,
 				41335B612BAE2CC300B076F5 /* Products */,
 			);
